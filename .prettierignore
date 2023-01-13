@@ -10,3 +10,4 @@
 !package.json
 !.prettierrc.js
 !.eslintrc.json
+!tailwind.config.cjs
