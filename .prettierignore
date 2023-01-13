@@ -8,5 +8,5 @@
 !tsconfig.json
 !astro.config.mjs
 !package.json
-!.prettierrc
+!.prettierrc.js
 !.eslintrc.json
